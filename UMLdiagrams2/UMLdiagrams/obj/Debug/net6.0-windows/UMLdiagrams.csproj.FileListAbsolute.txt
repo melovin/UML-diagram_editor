@@ -1,0 +1,237 @@
+C:\Users\zubarevaruslana\Desktop\UMLdiagrams\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.exe
+C:\Users\zubarevaruslana\Desktop\UMLdiagrams\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.deps.json
+C:\Users\zubarevaruslana\Desktop\UMLdiagrams\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.runtimeconfig.json
+C:\Users\zubarevaruslana\Desktop\UMLdiagrams\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.dll
+C:\Users\zubarevaruslana\Desktop\UMLdiagrams\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.pdb
+C:\Users\zubarevaruslana\Desktop\UMLdiagrams\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.csproj.AssemblyReference.cache
+C:\Users\zubarevaruslana\Desktop\UMLdiagrams\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.csproj.GenerateResource.cache
+C:\Users\zubarevaruslana\Desktop\UMLdiagrams\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zubarevaruslana\Desktop\UMLdiagrams\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.AssemblyInfoInputs.cache
+C:\Users\zubarevaruslana\Desktop\UMLdiagrams\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.AssemblyInfo.cs
+C:\Users\zubarevaruslana\Desktop\UMLdiagrams\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.csproj.CoreCompileInputs.cache
+C:\Users\zubarevaruslana\Desktop\UMLdiagrams\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.dll
+C:\Users\zubarevaruslana\Desktop\UMLdiagrams\UMLdiagrams\obj\Debug\net6.0-windows\refint\UMLdiagrams.dll
+C:\Users\zubarevaruslana\Desktop\UMLdiagrams\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.pdb
+C:\Users\zubarevaruslana\Desktop\UMLdiagrams\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.genruntimeconfig.cache
+C:\Users\zubarevaruslana\Desktop\UMLdiagrams\UMLdiagrams\obj\Debug\net6.0-windows\ref\UMLdiagrams.dll
+C:\Users\zubarevaruslana\Desktop\UMLdiagrams\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.s.resources
+C:\Users\Ruslana Zubareva\Desktop\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.exe
+C:\Users\Ruslana Zubareva\Desktop\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.deps.json
+C:\Users\Ruslana Zubareva\Desktop\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.runtimeconfig.json
+C:\Users\Ruslana Zubareva\Desktop\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.dll
+C:\Users\Ruslana Zubareva\Desktop\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.pdb
+C:\Users\Ruslana Zubareva\Desktop\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.csproj.AssemblyReference.cache
+C:\Users\Ruslana Zubareva\Desktop\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.csproj.GenerateResource.cache
+C:\Users\Ruslana Zubareva\Desktop\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruslana Zubareva\Desktop\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.AssemblyInfoInputs.cache
+C:\Users\Ruslana Zubareva\Desktop\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.AssemblyInfo.cs
+C:\Users\Ruslana Zubareva\Desktop\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.csproj.CoreCompileInputs.cache
+C:\Users\Ruslana Zubareva\Desktop\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.dll
+C:\Users\Ruslana Zubareva\Desktop\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\refint\UMLdiagrams.dll
+C:\Users\Ruslana Zubareva\Desktop\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.pdb
+C:\Users\Ruslana Zubareva\Desktop\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.genruntimeconfig.cache
+C:\Users\Ruslana Zubareva\Desktop\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\ref\UMLdiagrams.dll
+C:\Users\Ruslana Zubareva\Desktop\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.DeleteAll.resources
+C:\Users\Ruslana Zubareva\Desktop\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.Form1.resources
+C:\Users\Ruslana Zubareva\Desktop\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.OperationInputForm.resources
+C:\Users\Ruslana Zubareva\Desktop\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.EditDiagramClassForm.resources
+C:\Users\zubarevaruslana\Desktop\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.exe
+C:\Users\zubarevaruslana\Desktop\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.deps.json
+C:\Users\zubarevaruslana\Desktop\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.runtimeconfig.json
+C:\Users\zubarevaruslana\Desktop\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.dll
+C:\Users\zubarevaruslana\Desktop\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.pdb
+C:\Users\zubarevaruslana\Desktop\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.csproj.AssemblyReference.cache
+C:\Users\zubarevaruslana\Desktop\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.DeleteAll.resources
+C:\Users\zubarevaruslana\Desktop\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.EditDiagramClassForm.resources
+C:\Users\zubarevaruslana\Desktop\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.Form1.resources
+C:\Users\zubarevaruslana\Desktop\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.OperationInputForm.resources
+C:\Users\zubarevaruslana\Desktop\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.csproj.GenerateResource.cache
+C:\Users\zubarevaruslana\Desktop\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zubarevaruslana\Desktop\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.AssemblyInfoInputs.cache
+C:\Users\zubarevaruslana\Desktop\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.AssemblyInfo.cs
+C:\Users\zubarevaruslana\Desktop\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.csproj.CoreCompileInputs.cache
+C:\Users\zubarevaruslana\Desktop\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.dll
+C:\Users\zubarevaruslana\Desktop\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\refint\UMLdiagrams.dll
+C:\Users\zubarevaruslana\Desktop\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.pdb
+C:\Users\zubarevaruslana\Desktop\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.genruntimeconfig.cache
+C:\Users\zubarevaruslana\Desktop\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\ref\UMLdiagrams.dll
+C:\Users\Ruslana Zubareva\Desktop\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.exe
+C:\Users\Ruslana Zubareva\Desktop\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.deps.json
+C:\Users\Ruslana Zubareva\Desktop\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.runtimeconfig.json
+C:\Users\Ruslana Zubareva\Desktop\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.dll
+C:\Users\Ruslana Zubareva\Desktop\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.pdb
+C:\Users\Ruslana Zubareva\Desktop\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.csproj.AssemblyReference.cache
+C:\Users\Ruslana Zubareva\Desktop\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.DeleteAll.resources
+C:\Users\Ruslana Zubareva\Desktop\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.EditDiagramClassForm.resources
+C:\Users\Ruslana Zubareva\Desktop\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.Form1.resources
+C:\Users\Ruslana Zubareva\Desktop\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.OperationInputForm.resources
+C:\Users\Ruslana Zubareva\Desktop\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.csproj.GenerateResource.cache
+C:\Users\Ruslana Zubareva\Desktop\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruslana Zubareva\Desktop\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.AssemblyInfoInputs.cache
+C:\Users\Ruslana Zubareva\Desktop\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.AssemblyInfo.cs
+C:\Users\Ruslana Zubareva\Desktop\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.csproj.CoreCompileInputs.cache
+C:\Users\Ruslana Zubareva\Desktop\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.dll
+C:\Users\Ruslana Zubareva\Desktop\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\refint\UMLdiagrams.dll
+C:\Users\Ruslana Zubareva\Desktop\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.pdb
+C:\Users\Ruslana Zubareva\Desktop\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.genruntimeconfig.cache
+C:\Users\Ruslana Zubareva\Desktop\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\ref\UMLdiagrams.dll
+C:\Users\adam\Downloads\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.exe
+C:\Users\adam\Downloads\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.deps.json
+C:\Users\adam\Downloads\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.runtimeconfig.json
+C:\Users\adam\Downloads\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.dll
+C:\Users\adam\Downloads\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.pdb
+C:\Users\adam\Downloads\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.csproj.AssemblyReference.cache
+C:\Users\adam\Downloads\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.DeleteAll.resources
+C:\Users\adam\Downloads\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.EditDiagramClassForm.resources
+C:\Users\adam\Downloads\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.Form1.resources
+C:\Users\adam\Downloads\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.OperationInputForm.resources
+C:\Users\adam\Downloads\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.csproj.GenerateResource.cache
+C:\Users\adam\Downloads\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adam\Downloads\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.AssemblyInfoInputs.cache
+C:\Users\adam\Downloads\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.AssemblyInfo.cs
+C:\Users\adam\Downloads\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.csproj.CoreCompileInputs.cache
+C:\Users\adam\Downloads\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.dll
+C:\Users\adam\Downloads\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\refint\UMLdiagrams.dll
+C:\Users\adam\Downloads\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.pdb
+C:\Users\adam\Downloads\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.genruntimeconfig.cache
+C:\Users\adam\Downloads\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\ref\UMLdiagrams.dll
+C:\Users\Ruslana Zubareva\Desktop\moznaPrvniCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.exe
+C:\Users\Ruslana Zubareva\Desktop\moznaPrvniCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.deps.json
+C:\Users\Ruslana Zubareva\Desktop\moznaPrvniCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.runtimeconfig.json
+C:\Users\Ruslana Zubareva\Desktop\moznaPrvniCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.dll
+C:\Users\Ruslana Zubareva\Desktop\moznaPrvniCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.pdb
+C:\Users\Ruslana Zubareva\Desktop\moznaPrvniCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.csproj.AssemblyReference.cache
+C:\Users\Ruslana Zubareva\Desktop\moznaPrvniCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.DeleteAll.resources
+C:\Users\Ruslana Zubareva\Desktop\moznaPrvniCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.EditDiagramClassForm.resources
+C:\Users\Ruslana Zubareva\Desktop\moznaPrvniCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.Form1.resources
+C:\Users\Ruslana Zubareva\Desktop\moznaPrvniCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.OperationInputForm.resources
+C:\Users\Ruslana Zubareva\Desktop\moznaPrvniCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.csproj.GenerateResource.cache
+C:\Users\Ruslana Zubareva\Desktop\moznaPrvniCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruslana Zubareva\Desktop\moznaPrvniCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.AssemblyInfoInputs.cache
+C:\Users\Ruslana Zubareva\Desktop\moznaPrvniCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.AssemblyInfo.cs
+C:\Users\Ruslana Zubareva\Desktop\moznaPrvniCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.csproj.CoreCompileInputs.cache
+C:\Users\Ruslana Zubareva\Desktop\moznaPrvniCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.dll
+C:\Users\Ruslana Zubareva\Desktop\moznaPrvniCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\refint\UMLdiagrams.dll
+C:\Users\Ruslana Zubareva\Desktop\moznaPrvniCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.pdb
+C:\Users\Ruslana Zubareva\Desktop\moznaPrvniCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.genruntimeconfig.cache
+C:\Users\Ruslana Zubareva\Desktop\moznaPrvniCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\ref\UMLdiagrams.dll
+C:\Users\Ruslana Zubareva\Desktop\moznaPrvniCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.ConnectionForm.resources
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.exe
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.deps.json
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.runtimeconfig.json
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.dll
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.pdb
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.csproj.AssemblyReference.cache
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.ConnectionForm.resources
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.DeleteAll.resources
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.EditDiagramClassForm.resources
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.Form1.resources
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.OperationInputForm.resources
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.csproj.GenerateResource.cache
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.AssemblyInfoInputs.cache
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.AssemblyInfo.cs
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.csproj.CoreCompileInputs.cache
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.dll
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\refint\UMLdiagrams.dll
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.pdb
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.genruntimeconfig.cache
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\ref\UMLdiagrams.dll
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint18_10\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.exe
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint18_10\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.deps.json
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint18_10\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.runtimeconfig.json
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint18_10\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.dll
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint18_10\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.pdb
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint18_10\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.csproj.AssemblyReference.cache
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint18_10\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.ConnectionForm.resources
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint18_10\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.DeleteAll.resources
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint18_10\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.EditDiagramClassForm.resources
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint18_10\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.ExportForm.resources
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint18_10\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.Form1.resources
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint18_10\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.OperationInputForm.resources
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint18_10\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.csproj.GenerateResource.cache
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint18_10\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint18_10\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.AssemblyInfoInputs.cache
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint18_10\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.AssemblyInfo.cs
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint18_10\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.csproj.CoreCompileInputs.cache
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint18_10\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.dll
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint18_10\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\refint\UMLdiagrams.dll
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint18_10\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.pdb
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint18_10\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.genruntimeconfig.cache
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint18_10\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\ref\UMLdiagrams.dll
+C:\Users\Ruslana Zubareva\Desktop\moznaDruhyCheckpoint18_10\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.Properties.Resources.resources
+C:\Users\Ruslana Zubareva\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.exe
+C:\Users\Ruslana Zubareva\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.deps.json
+C:\Users\Ruslana Zubareva\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.runtimeconfig.json
+C:\Users\Ruslana Zubareva\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.dll
+C:\Users\Ruslana Zubareva\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.pdb
+C:\Users\Ruslana Zubareva\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.csproj.AssemblyReference.cache
+C:\Users\Ruslana Zubareva\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.ConnectionForm.resources
+C:\Users\Ruslana Zubareva\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.DeleteAll.resources
+C:\Users\Ruslana Zubareva\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.EditDiagramClassForm.resources
+C:\Users\Ruslana Zubareva\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.ExportForm.resources
+C:\Users\Ruslana Zubareva\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.Form1.resources
+C:\Users\Ruslana Zubareva\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.OperationInputForm.resources
+C:\Users\Ruslana Zubareva\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.Properties.Resources.resources
+C:\Users\Ruslana Zubareva\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.csproj.GenerateResource.cache
+C:\Users\Ruslana Zubareva\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruslana Zubareva\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.AssemblyInfoInputs.cache
+C:\Users\Ruslana Zubareva\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.AssemblyInfo.cs
+C:\Users\Ruslana Zubareva\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.csproj.CoreCompileInputs.cache
+C:\Users\Ruslana Zubareva\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.dll
+C:\Users\Ruslana Zubareva\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\refint\UMLdiagrams.dll
+C:\Users\Ruslana Zubareva\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.pdb
+C:\Users\Ruslana Zubareva\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.genruntimeconfig.cache
+C:\Users\Ruslana Zubareva\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\ref\UMLdiagrams.dll
+C:\Users\Ruslana Zubareva\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.ImportForm.resources
+C:\Users\Ruslana Zubareva\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.RemoveForm.resources
+C:\Users\zubarevaruslana\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.exe
+C:\Users\zubarevaruslana\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.deps.json
+C:\Users\zubarevaruslana\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.runtimeconfig.json
+C:\Users\zubarevaruslana\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.dll
+C:\Users\zubarevaruslana\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.pdb
+C:\Users\zubarevaruslana\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.csproj.AssemblyReference.cache
+C:\Users\zubarevaruslana\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.ConnectionForm.resources
+C:\Users\zubarevaruslana\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.DeleteAll.resources
+C:\Users\zubarevaruslana\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.EditDiagramClassForm.resources
+C:\Users\zubarevaruslana\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.ExportForm.resources
+C:\Users\zubarevaruslana\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.Form1.resources
+C:\Users\zubarevaruslana\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.ImportForm.resources
+C:\Users\zubarevaruslana\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.OperationInputForm.resources
+C:\Users\zubarevaruslana\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.Properties.Resources.resources
+C:\Users\zubarevaruslana\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.RemoveForm.resources
+C:\Users\zubarevaruslana\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.csproj.GenerateResource.cache
+C:\Users\zubarevaruslana\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zubarevaruslana\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.AssemblyInfoInputs.cache
+C:\Users\zubarevaruslana\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.AssemblyInfo.cs
+C:\Users\zubarevaruslana\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.csproj.CoreCompileInputs.cache
+C:\Users\zubarevaruslana\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.dll
+C:\Users\zubarevaruslana\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\refint\UMLdiagrams.dll
+C:\Users\zubarevaruslana\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.pdb
+C:\Users\zubarevaruslana\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.genruntimeconfig.cache
+C:\Users\zubarevaruslana\Desktop\moznaTretiCheckpoint\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\ref\UMLdiagrams.dll
+C:\Users\rusla\Desktop\Nová složka\DiagramEditorFinall\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.exe
+C:\Users\rusla\Desktop\Nová složka\DiagramEditorFinall\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.deps.json
+C:\Users\rusla\Desktop\Nová složka\DiagramEditorFinall\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.runtimeconfig.json
+C:\Users\rusla\Desktop\Nová složka\DiagramEditorFinall\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.dll
+C:\Users\rusla\Desktop\Nová složka\DiagramEditorFinall\uml_10_10\UMLdiagrams2\UMLdiagrams\bin\Debug\net6.0-windows\UMLdiagrams.pdb
+C:\Users\rusla\Desktop\Nová složka\DiagramEditorFinall\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.csproj.AssemblyReference.cache
+C:\Users\rusla\Desktop\Nová složka\DiagramEditorFinall\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.ConnectionForm.resources
+C:\Users\rusla\Desktop\Nová složka\DiagramEditorFinall\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.DeleteAll.resources
+C:\Users\rusla\Desktop\Nová složka\DiagramEditorFinall\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.EditDiagramClassForm.resources
+C:\Users\rusla\Desktop\Nová složka\DiagramEditorFinall\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.ExportForm.resources
+C:\Users\rusla\Desktop\Nová složka\DiagramEditorFinall\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.Form1.resources
+C:\Users\rusla\Desktop\Nová složka\DiagramEditorFinall\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.ImportForm.resources
+C:\Users\rusla\Desktop\Nová složka\DiagramEditorFinall\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.OperationInputForm.resources
+C:\Users\rusla\Desktop\Nová složka\DiagramEditorFinall\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.Properties.Resources.resources
+C:\Users\rusla\Desktop\Nová složka\DiagramEditorFinall\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.RemoveForm.resources
+C:\Users\rusla\Desktop\Nová složka\DiagramEditorFinall\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.csproj.GenerateResource.cache
+C:\Users\rusla\Desktop\Nová složka\DiagramEditorFinall\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\Desktop\Nová složka\DiagramEditorFinall\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.AssemblyInfoInputs.cache
+C:\Users\rusla\Desktop\Nová složka\DiagramEditorFinall\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.AssemblyInfo.cs
+C:\Users\rusla\Desktop\Nová složka\DiagramEditorFinall\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.csproj.CoreCompileInputs.cache
+C:\Users\rusla\Desktop\Nová složka\DiagramEditorFinall\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.dll
+C:\Users\rusla\Desktop\Nová složka\DiagramEditorFinall\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\refint\UMLdiagrams.dll
+C:\Users\rusla\Desktop\Nová složka\DiagramEditorFinall\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.pdb
+C:\Users\rusla\Desktop\Nová složka\DiagramEditorFinall\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\UMLdiagrams.genruntimeconfig.cache
+C:\Users\rusla\Desktop\Nová složka\DiagramEditorFinall\uml_10_10\UMLdiagrams2\UMLdiagrams\obj\Debug\net6.0-windows\ref\UMLdiagrams.dll
